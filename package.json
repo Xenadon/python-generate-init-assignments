@@ -3,7 +3,7 @@
   "displayName": "python-generate-init-assignments",
   "description": "To generate property-initialization assignments from __init__ arguments.",
   "version": "0.0.1",
-  "publisher": "Xenadon Wang",
+  "publisher": "xenadonwang",
   "engines": {
     "vscode": "^1.97.0"
   },
